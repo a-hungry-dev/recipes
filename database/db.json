@@ -1,0 +1,16 @@
+{
+    "users": {
+        "auto_increment": 1,
+        "rows": []
+    },
+    "recipes": {
+        "auto_increment": 2,
+        "rows": [
+            {
+                "id": 1,
+                "name": "test",
+                "rating": 1
+            }
+        ]
+    }
+}
